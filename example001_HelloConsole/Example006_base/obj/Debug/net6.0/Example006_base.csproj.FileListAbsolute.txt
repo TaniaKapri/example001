@@ -1,0 +1,15 @@
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/bin/Debug/net6.0/Example006_base
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/bin/Debug/net6.0/Example006_base.deps.json
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/bin/Debug/net6.0/Example006_base.runtimeconfig.json
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/bin/Debug/net6.0/Example006_base.dll
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/bin/Debug/net6.0/Example006_base.pdb
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.csproj.AssemblyReference.cache
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.AssemblyInfoInputs.cache
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.AssemblyInfo.cs
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.csproj.CoreCompileInputs.cache
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.dll
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/refint/Example006_base.dll
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.pdb
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/Example006_base.genruntimeconfig.cache
+/Users/tatyana/Desktop/examples c#/example001_HelloConsole/Example006_base/obj/Debug/net6.0/ref/Example006_base.dll
